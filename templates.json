@@ -1,0 +1,10 @@
+{
+  "init": {
+    "place": "Hzy0913/react-template",
+    "branch": ""
+  },
+  "spa": {
+    "place": "Hzy0913/react-template",
+    "branch": "#spa"
+  }
+}
