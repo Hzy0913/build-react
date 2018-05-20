@@ -62,7 +62,7 @@ const question = [
     }
   }
 ]
-module.exports = prompt([]).then(({name, template, description, author}) => {
+module.exports = prompt(question).then(({name, template, description, author}) => {
   const projectName = name;
   const templateName = template;
   const gitPlace = tplList[templateName]['place'];

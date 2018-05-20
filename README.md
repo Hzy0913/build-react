@@ -1,9 +1,9 @@
 ## build-react-cli
-###### build-react-cli是帮助你快速创建生成react项目的脚手架工具，配置了多种可选择的不同类型项目模版。
+##### build-react-cli是帮助你快速创建生成react项目的脚手架工具，配置了多种可选择的不同类型项目模版。
 ### Installation
 
 ```
-npm install -g  build-react
+npm install -g build-react
 ```
 ### Usage
 ```
