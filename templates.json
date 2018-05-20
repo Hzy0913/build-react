@@ -3,8 +3,12 @@
     "place": "Hzy0913/react-template",
     "branch": ""
   },
-  "spa": {
+  "complete-project": {
     "place": "Hzy0913/react-template",
-    "branch": "#spa"
+    "branch": "#complete"
+  },
+  "simple-project": {
+    "place": "Hzy0913/react-template",
+    "branch": "#simple"
   }
 }

@@ -1,12 +1,13 @@
 {
-  "name": "react-cli",
+  "name": "build-react",
   "version": "1.0.0",
   "description": "react project cli",
   "bin": {
-    "start-react": "bin/react-cli"
+    "build-react": "bin/react-cli"
   },
   "keywords": [
-    "node",
+    "creat-react",
+    "react",
     "cli"
   ],
   "author": "Hzy0913",
