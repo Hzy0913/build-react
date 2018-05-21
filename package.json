@@ -1,6 +1,6 @@
 {
   "name": "build-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react project cli",
   "bin": {
     "build-react": "bin/react-cli"

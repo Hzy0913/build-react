@@ -30,3 +30,15 @@ npm start //运行项目
 `npm run build --a`
 ### config
 `config`目录下的`index.js`文件为项目webpack配置文件，包括有运行端口、地址、本地服务代理配置等一系列配置。
+
+| 名称  | 类型  | 描述  |
+| ------------ | ------------ | ------------ |
+|  host |String   |  主机 |
+| port  | Number  | 端口  |
+| proxyTable  | Object  | 代理配置  |
+| useEslint  | Boolean  | 是否使用eslint  |
+| autoOpenBrowser  | Boolean  | 是否自动打开浏览器  |
+| errorOverlay  | Boolean  | 是否使用全屏报错提示  |
+|  notifyOnErrors | Boolean  | 是否使用消息通知  |
+| showEslintErrorsInOverlay  | Boolean  | 是否使用eslint全屏报错提示  |
+| bundleAnalyzerReport  | Boolean  | 是否使用打包编译完成后显示依赖分析  |
